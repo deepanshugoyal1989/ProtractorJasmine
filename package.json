@@ -11,8 +11,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "protractor ./conf/conf.js",
-    "posttest": "allure serve ./report/allure-results -o ./report/allure-reports"
+    "test": "protractor ./conf/conf.js"
   },
   "author": "",
   "license": "ISC"
